@@ -199,12 +199,13 @@ public class LinkedStack implements Satck{
 //		
 //		stack.equals(stack2);
 		
-		ArrayStack arraystack=stack.toArrayStack();
-		System.out.println("toArrayStack elements are:");
-		for(int i=stack.size-1;i>=0;i--)
-		{
-			System.out.println(arraystack.array[i]);
-		}
+//		ArrayStack arraystack=stack.toArrayStack();
+//		System.out.println("toArrayStack elements are:");
+//		for(int i=stack.size-1;i>=0;i--)
+//		{
+//			System.out.println(arraystack.array[i]);
+//		}
+		
 		
 	}
 	
